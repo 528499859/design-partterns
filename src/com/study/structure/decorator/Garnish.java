@@ -3,6 +3,7 @@ package com.study.structure.decorator;
 /**
  * @author 一只小菜鸡
  * @version 1.0
+ * 抽象装饰
  */
 public abstract class Garnish extends FastFood{
     //声明快餐类的变量

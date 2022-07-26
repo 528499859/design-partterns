@@ -3,7 +3,7 @@ package com.study.structure.decorator;
 /**
  * @author 一只小菜鸡
  * @version 1.0
- * 培根类
+ * 培根类（具体装饰）
  */
 public class Bacon extends Garnish{
 
